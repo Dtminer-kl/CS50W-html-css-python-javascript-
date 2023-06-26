@@ -2,7 +2,8 @@
 CS50’s Web Programming with Python and JavaScript --Projects
 
 Project 0
-This project is mainly focusing on HTML and CSS, where I would have to make a working front end google search and advance search clone. 
+This project is mainly focusing on HTML and CSS, where I would have to make a working front end google search,advance search and Google Image clone; 
+Designing a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 
 Project 1
