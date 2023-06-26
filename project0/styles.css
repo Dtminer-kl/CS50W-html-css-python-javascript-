@@ -1,0 +1,138 @@
+.searchOptionAdv{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.searchOption{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.searchOptionItem{
+    margin: 10px;
+}
+
+.searchOptionItemImg{
+  margin-top: 10px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+    text-decoration: none;
+  }
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.roundedSearch{
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 584px;
+    width: calc(632px +6px);
+    max-width: 584px;
+}
+
+.Btn {
+    margin-top:8px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+#adv-Title{
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+    font-family: Arial, sans-serif;
+}
+
+.line {
+    border-bottom: 1px solid #ebebeb;
+    margin-bottom: 50px;
+}
+
+#findPage-Title{
+  margin-left: 35px;
+  margin-top: 25px;
+  font-size: 16px;
+  color: #333333;
+  font-family: Arial, sans-serif;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  margin-top: 8px;
+}
+
+.left-Col {
+  margin-left: 50px;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.right-Col{
+  width: 385px;
+}
+
+.Btn-Div{
+  display: flex;
+  justify-content: flex-end;
+  width: 620px;
+  
+}
+
+.Btn-Adv{
+  background-color: #4d90fe;
+  margin: 10px 0px;
+  color: #ebebeb;
+}
+
+.top{
+  margin-top: 10px;
+}
+
+.img-left{
+ margin-right: auto;
+}
